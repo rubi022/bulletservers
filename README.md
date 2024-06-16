@@ -1,2 +1,2 @@
 # bulletservers
-BulletServers for Super Fast Premium VPS and Dedicated Servers
+BulletServers ( https://bulletservers.net/ ) for Super Fast Premium VPS and Dedicated Servers ( https://dedicated-server.org )
